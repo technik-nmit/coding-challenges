@@ -5,6 +5,6 @@ It consisted of four challenges :
 | Challenge | Solution By |
 | --- | --- |
 | Arrays Introductions | anikeshk |
-| StringStream | harshainkv |
-| For Loop | roshan98b |
-| Variable Sized Array | preethamgali007 |
+| StringStream | imshantanu0007 |
+| For Loop | shreyambesh |
+| Variable Sized Array | thejasn_416 |
