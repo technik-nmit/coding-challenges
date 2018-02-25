@@ -4,7 +4,7 @@ It consisted of four challenges :
 
 | Challenge | Solution By |
 | --- | --- |
-| Solve Me First |  |
-| Staircase |  |
-| Simple Array Sum | |
-| Arrays - DS | |
+| Solve Me First | anikeshk |
+| Staircase | harshainkv |
+| Simple Array Sum | roshan98b |
+| Arrays - DS | preethamgali007 |
